@@ -1,5 +1,3 @@
-# SCT_CS_02
-
 # 🔒 Complex Image Encryptor
 
 A simple Python GUI tool that makes your images completely **unrecognizable** by using **pixel-level encryption**:
